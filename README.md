@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Ravi Tej Chaparala
-- 👀 I’m interested in Data Science and Machine Learning
 - 📫 You can reach me on LinkedIn : https://www.linkedin.com/in/ravi-tej-chaparala/
 
 <!---
